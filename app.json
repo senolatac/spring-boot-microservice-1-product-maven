@@ -1,5 +1,5 @@
 {
-  "name": "sha-microservice-1-product",
+  "name": "maik-microservice-1-product",
   "buildpacks": [
     {
       "url": "heroku/java"
